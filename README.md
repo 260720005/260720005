@@ -49,3 +49,5 @@
 │   🔬  Turning AI concepts into practical applications        │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
+# 🛠️ Technologies
+<p align="center"> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=F55036"/> <img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=00F7FF"/> </p>
