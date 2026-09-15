@@ -19,11 +19,11 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ansh-panwar-58a89227b/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="mailto:hello@example.com">
+<a href="mailto:anshpanwar509@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
