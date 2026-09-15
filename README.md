@@ -326,15 +326,7 @@ Exploring new ideas around:
 
 ---
 
-# 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=260720005&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=260720005&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-</div>
 
 ---
 
